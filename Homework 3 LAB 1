@@ -1,0 +1,25 @@
+using System;
+
+namespace _03._Deposit_Calculator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Четем от конзолата 
+            //    1.Депозирана сума - double 
+            //    2.Срок на депозита(в месеци) - int 
+            //    3.Годишен лихвен процент - double 
+            double deposit = double.Parse(Console.ReadLine());
+            int term = int.Parse(Console.ReadLine());
+            double rate = double.Parse(Console.ReadLine());
+
+            //Изчисляваме сумата: 
+            //=>сума = депозирана сума + срок на депозита *((депозирана сума*годишен лихвен процент )/12)
+            double sum = deposit + term * ((deposit * rate / 100) / 12);
+
+            //Отпечатваме резултата (сумата)
+            Console.WriteLine(sum);
+        }
+    }
+}
