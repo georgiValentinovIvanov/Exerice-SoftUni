@@ -1,0 +1,26 @@
+using System;
+using System.Diagnostics;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            int c = int.Parse(Console.ReadLine());
+            double percent = double.Parse(Console.ReadLine());
+
+            double volumeAqua = a * b * c;
+            double volume = volumeAqua / 1000;
+            double finalPercent = (percent / 100.00);
+
+
+            double liters = volume * (1 - finalPercent);
+            Console.WriteLine(liters);
+
+
+        }
+    }
+}
