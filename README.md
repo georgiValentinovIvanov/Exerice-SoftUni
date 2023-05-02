@@ -1,1 +1,1 @@
-# Georgi-I
+# Exercise whit C# 
