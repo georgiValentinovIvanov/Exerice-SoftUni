@@ -1,0 +1,27 @@
+using System;
+using static System.Formats.Asn1.AsnWriter;
+using System.Xml.Linq;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int pencils = int.Parse(Console.ReadLine());
+            int markers = int.Parse(Console.ReadLine());
+            int liters = int.Parse(Console.ReadLine());
+            double procent = Double.Parse(Console.ReadLine());
+
+            double pricePencil = 2 * 5.80;
+            double priceMarkers = 3 * 7.2;
+            double priceLiters = 4 * 1.2;
+
+            double sum = pricePencil + priceMarkers + priceLiters;
+            double sumReductions = sum - (sum * 0.25);
+
+            Console.WriteLine(sumReductions);
+
+        }
+    }
+}
