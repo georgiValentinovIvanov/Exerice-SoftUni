@@ -1,0 +1,25 @@
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int chikenMenu = int.Parse(Console.ReadLine());
+            int fishMenu = int.Parse(Console.ReadLine());
+            int veganMenu = int.Parse(Console.ReadLine());
+
+            double chikenPrice = 2 * 10.35;
+            double fishPrice = 4 *  12.40;
+            double veganPrice = 3 * 8.15;
+            double totalPrice = chikenPrice + fishPrice + veganPrice;
+            double desertPrice = (totalPrice * 0.2);
+            double delivery = 2.50;
+
+            double finalSum = totalPrice + desertPrice + delivery;
+
+            Console.WriteLine(finalSum);
+        }
+    }
+}
