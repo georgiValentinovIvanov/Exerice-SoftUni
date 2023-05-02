@@ -1,0 +1,19 @@
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double meters = double.Parse(Console.ReadLine());
+
+            double price = meters * 7.61;
+            double discount = 0.18 * price;
+            double totalSum = price - discount;
+
+            Console.WriteLine($"The final price is: {totalSum} lv.");
+            Console.WriteLine($"The discount is: {discount} lv.");
+        }
+    }
+}
