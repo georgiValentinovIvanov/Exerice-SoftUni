@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.genruntimeconfig.cache

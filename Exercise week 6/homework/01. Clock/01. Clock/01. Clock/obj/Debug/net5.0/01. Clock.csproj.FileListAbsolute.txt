@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\bin\Debug\net5.0\01. Clock.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\bin\Debug\net5.0\01. Clock.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\bin\Debug\net5.0\01. Clock.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\bin\Debug\net5.0\01. Clock.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\refint\01. Clock.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\01. Clock.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\01. Clock\01. Clock\01. Clock\obj\Debug\net5.0\ref\01. Clock.dll

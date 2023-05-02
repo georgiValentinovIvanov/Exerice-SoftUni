@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\bin\Debug\net5.0\04. Train The Trainers.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\refint\04. Train The Trainers.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\04. Train The Trainers.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\04. Train The Trainers\04. Train The Trainers\obj\Debug\net5.0\ref\04. Train The Trainers.dll

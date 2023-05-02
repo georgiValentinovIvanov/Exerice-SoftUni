@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\bin\Debug\net5.0\01. Old Books.exe
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\bin\Debug\net5.0\01. Old Books.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\bin\Debug\net5.0\01. Old Books.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\bin\Debug\net5.0\01. Old Books.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\refint\01. Old Books.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\01. Old Books.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\01. Old Books\01. Old Books\01. Old Books\obj\Debug\net5.0\ref\01. Old Books.dll

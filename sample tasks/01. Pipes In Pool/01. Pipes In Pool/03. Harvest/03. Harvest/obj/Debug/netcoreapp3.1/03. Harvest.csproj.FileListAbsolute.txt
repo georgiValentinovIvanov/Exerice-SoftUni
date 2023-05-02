@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Примерни задачи - Допълнителни\01. Pipes In Pool\01. Pipes In Pool\03. Harvest\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\bin\Debug\net5.0\P04..exe
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\bin\Debug\net5.0\P04..deps.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\bin\Debug\net5.0\P04..runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\bin\Debug\net5.0\P04..runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\bin\Debug\net5.0\P04..dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\bin\Debug\net5.0\P04..pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\refint\P04..dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\P04..genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam 23.10.22\P04\obj\Debug\net5.0\ref\P04..dll

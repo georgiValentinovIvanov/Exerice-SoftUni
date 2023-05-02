@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\bin\Debug\net5.0\03. Histogram.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\bin\Debug\net5.0\03. Histogram.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\bin\Debug\net5.0\03. Histogram.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\bin\Debug\net5.0\03. Histogram.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\refint\03. Histogram.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\03. Histogram.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\03. Histogram\03. Histogram\obj\Debug\net5.0\ref\03. Histogram.dll

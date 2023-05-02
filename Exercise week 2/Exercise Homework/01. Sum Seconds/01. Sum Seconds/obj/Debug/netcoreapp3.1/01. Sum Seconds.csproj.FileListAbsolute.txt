@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\01. Sum Seconds\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.genruntimeconfig.cache

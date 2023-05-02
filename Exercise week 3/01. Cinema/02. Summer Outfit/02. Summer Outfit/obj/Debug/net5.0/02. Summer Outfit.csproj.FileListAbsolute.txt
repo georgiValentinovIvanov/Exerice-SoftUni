@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.exe
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\refint\02. Summer Outfit.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\02. Summer Outfit\02. Summer Outfit\obj\Debug\net5.0\ref\02. Summer Outfit.dll

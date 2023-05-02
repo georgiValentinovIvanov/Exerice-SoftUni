@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\04. Toy Shop\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.genruntimeconfig.cache

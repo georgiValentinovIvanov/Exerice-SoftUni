@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\refint\02. Equal Sums Even Odd Position.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position\obj\Debug\net5.0\ref\02. Equal Sums Even Odd Position.dll

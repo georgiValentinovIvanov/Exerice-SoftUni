@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\bin\Debug\net5.0\03. Gymnastics.exe
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\bin\Debug\net5.0\03. Gymnastics.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\bin\Debug\net5.0\03. Gymnastics.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\bin\Debug\net5.0\03. Gymnastics.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\bin\Debug\net5.0\03. Gymnastics.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\bin\Debug\net5.0\03. Gymnastics.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\refint\03. Gymnastics.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\03. Gymnastics.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\03. Gymnastics\03. Gymnastics\obj\Debug\net5.0\ref\03. Gymnastics.dll

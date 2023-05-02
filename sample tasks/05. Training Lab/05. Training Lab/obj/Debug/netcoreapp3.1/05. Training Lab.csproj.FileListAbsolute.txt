@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.exe
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.deps.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\05. Training Lab\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.genruntimeconfig.cache

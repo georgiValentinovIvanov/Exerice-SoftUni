@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\bin\Debug\net5.0\Number1ToNWithStep3.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\bin\Debug\net5.0\Number1ToNWithStep3.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\bin\Debug\net5.0\Number1ToNWithStep3.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\bin\Debug\net5.0\Number1ToNWithStep3.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\bin\Debug\net5.0\Number1ToNWithStep3.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\bin\Debug\net5.0\Number1ToNWithStep3.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\refint\Number1ToNWithStep3.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\Number1ToNWithStep3.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Number1ToNWithStep3\Number1ToNWithStep3\obj\Debug\net5.0\ref\Number1ToNWithStep3.dll

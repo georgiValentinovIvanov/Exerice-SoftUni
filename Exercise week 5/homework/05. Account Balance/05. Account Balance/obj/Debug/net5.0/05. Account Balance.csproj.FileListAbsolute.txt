@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\bin\Debug\net5.0\05. Account Balance.exe
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\bin\Debug\net5.0\05. Account Balance.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\bin\Debug\net5.0\05. Account Balance.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\bin\Debug\net5.0\05. Account Balance.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\refint\05. Account Balance.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\05. Account Balance.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\05. Account Balance\05. Account Balance\obj\Debug\net5.0\ref\05. Account Balance.dll

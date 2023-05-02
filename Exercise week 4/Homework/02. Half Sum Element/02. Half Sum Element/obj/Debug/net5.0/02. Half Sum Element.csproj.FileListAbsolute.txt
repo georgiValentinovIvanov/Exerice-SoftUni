@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\refint\02. Half Sum Element.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\02. Half Sum Element\02. Half Sum Element\obj\Debug\net5.0\ref\02. Half Sum Element.dll

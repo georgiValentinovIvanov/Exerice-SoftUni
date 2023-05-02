@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\bin\Debug\net5.0\05. Salary.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\bin\Debug\net5.0\05. Salary.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\bin\Debug\net5.0\05. Salary.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\bin\Debug\net5.0\05. Salary.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\bin\Debug\net5.0\05. Salary.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\bin\Debug\net5.0\05. Salary.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\refint\05. Salary.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\05. Salary.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\05. Salary\05. Salary\obj\Debug\net5.0\ref\05. Salary.dll

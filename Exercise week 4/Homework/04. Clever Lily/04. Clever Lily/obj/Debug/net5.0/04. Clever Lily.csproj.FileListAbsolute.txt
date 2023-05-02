@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\refint\04. Clever Lily.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\04. Clever Lily\04. Clever Lily\obj\Debug\net5.0\ref\04. Clever Lily.dll

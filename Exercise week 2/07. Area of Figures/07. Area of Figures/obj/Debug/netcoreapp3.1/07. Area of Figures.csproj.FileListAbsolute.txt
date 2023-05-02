@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\07. Area of Figures\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.genruntimeconfig.cache

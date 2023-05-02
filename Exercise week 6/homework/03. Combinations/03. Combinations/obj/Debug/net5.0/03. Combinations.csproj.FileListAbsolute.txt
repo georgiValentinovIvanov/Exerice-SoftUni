@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\bin\Debug\net5.0\03. Combinations.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\bin\Debug\net5.0\03. Combinations.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\bin\Debug\net5.0\03. Combinations.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\bin\Debug\net5.0\03. Combinations.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\bin\Debug\net5.0\03. Combinations.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\bin\Debug\net5.0\03. Combinations.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\refint\03. Combinations.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\03. Combinations.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\03. Combinations\03. Combinations\obj\Debug\net5.0\ref\03. Combinations.dll

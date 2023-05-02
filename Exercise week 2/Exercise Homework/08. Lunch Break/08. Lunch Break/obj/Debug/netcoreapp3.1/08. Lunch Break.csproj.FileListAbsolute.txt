@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\08. Lunch Break\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.genruntimeconfig.cache

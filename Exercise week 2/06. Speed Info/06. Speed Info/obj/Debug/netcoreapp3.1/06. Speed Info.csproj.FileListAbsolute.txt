@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\06. Speed Info\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.genruntimeconfig.cache

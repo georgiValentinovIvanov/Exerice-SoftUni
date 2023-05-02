@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\refint\06. Vowels Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\06. Vowels Sum\06. Vowels Sum\obj\Debug\net5.0\ref\06. Vowels Sum.dll

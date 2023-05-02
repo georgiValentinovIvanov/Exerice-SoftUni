@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\bin\Debug\net5.0\07. Min Number.exe
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\bin\Debug\net5.0\07. Min Number.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\bin\Debug\net5.0\07. Min Number.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\bin\Debug\net5.0\07. Min Number.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\bin\Debug\net5.0\07. Min Number.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\bin\Debug\net5.0\07. Min Number.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\refint\07. Min Number.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\07. Min Number.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\07. Min Number\07. Min Number\obj\Debug\net5.0\ref\07. Min Number.dll

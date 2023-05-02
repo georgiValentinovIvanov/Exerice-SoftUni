@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.exe
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\refint\07. Hotel Room.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\07. Hotel Room\07. Hotel Room\obj\Debug\net5.0\ref\07. Hotel Room.dll

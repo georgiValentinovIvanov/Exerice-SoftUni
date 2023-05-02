@@ -1,0 +1,15 @@
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.exe
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.deps.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\refint\02. Triangle Area.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.genruntimeconfig.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\02. Triangle Area\02. Triangle Area\obj\Debug\net6.0\ref\02. Triangle Area.dll

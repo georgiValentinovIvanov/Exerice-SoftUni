@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\refint\NumbersNTo1.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\NumbersNTo1\NumbersNTo1\obj\Debug\net5.0\ref\NumbersNTo1.dll

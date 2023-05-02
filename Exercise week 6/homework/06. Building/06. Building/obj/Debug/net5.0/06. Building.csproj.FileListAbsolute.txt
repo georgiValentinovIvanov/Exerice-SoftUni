@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\bin\Debug\net5.0\06. Building.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\bin\Debug\net5.0\06. Building.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\bin\Debug\net5.0\06. Building.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\bin\Debug\net5.0\06. Building.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\bin\Debug\net5.0\06. Building.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\bin\Debug\net5.0\06. Building.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\refint\06. Building.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\06. Building.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\06. Building\06. Building\obj\Debug\net5.0\ref\06. Building.dll

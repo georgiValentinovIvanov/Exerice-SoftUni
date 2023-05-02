@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\bin\Debug\net5.0\Int5.exe
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\bin\Debug\net5.0\Int5.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\bin\Debug\net5.0\Int5.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\bin\Debug\net5.0\Int5.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\bin\Debug\net5.0\Int5.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\bin\Debug\net5.0\Int5.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\refint\Int5.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\Int5.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\Int5\obj\Debug\net5.0\ref\Int5.dll

@@ -1,0 +1,16 @@
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\bin\Debug\net5.0\05. Small Shop.exe
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\bin\Debug\net5.0\05. Small Shop.deps.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\bin\Debug\net5.0\05. Small Shop.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\bin\Debug\net5.0\05. Small Shop.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\bin\Debug\net5.0\05. Small Shop.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\bin\Debug\net5.0\05. Small Shop.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\refint\05. Small Shop.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\05. Small Shop.genruntimeconfig.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\05. Small Shop\05. Small Shop\obj\Debug\net5.0\ref\05. Small Shop.dll

@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\bin\Debug\net5.0\03. New House.exe
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\bin\Debug\net5.0\03. New House.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\bin\Debug\net5.0\03. New House.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\bin\Debug\net5.0\03. New House.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\refint\03. New House.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\03. New House.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\03. New House\03. New House\obj\Debug\net5.0\ref\03. New House.dll

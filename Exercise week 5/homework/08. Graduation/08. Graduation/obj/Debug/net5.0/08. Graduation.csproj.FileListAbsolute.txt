@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\bin\Debug\net5.0\08. Graduation.exe
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\bin\Debug\net5.0\08. Graduation.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\bin\Debug\net5.0\08. Graduation.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\bin\Debug\net5.0\08. Graduation.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\bin\Debug\net5.0\08. Graduation.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\bin\Debug\net5.0\08. Graduation.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\refint\08. Graduation.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\08. Graduation.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\LAB\08. Graduation\08. Graduation\obj\Debug\net5.0\ref\08. Graduation.dll

@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\refint\01. Numbers from 1 to 100.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\01. Numbers from 1 to 100\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\ref\01. Numbers from 1 to 100.dll

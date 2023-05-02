@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.exe
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.deps.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\06. Fishland\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.genruntimeconfig.cache

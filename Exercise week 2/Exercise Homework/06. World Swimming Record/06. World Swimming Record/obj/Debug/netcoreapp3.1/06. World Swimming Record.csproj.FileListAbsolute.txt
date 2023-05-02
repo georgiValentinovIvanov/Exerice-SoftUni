@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\bin\Debug\netcoreapp3.1\06. World Swimming Record.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\06. World Swimming Record\06. World Swimming Record\obj\Debug\netcoreapp3.1\06. World Swimming Record.genruntimeconfig.cache

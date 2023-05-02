@@ -1,0 +1,15 @@
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\bin\Debug\net6.0\01. Trapeziod Area.exe
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\bin\Debug\net6.0\01. Trapeziod Area.deps.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\bin\Debug\net6.0\01. Trapeziod Area.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\bin\Debug\net6.0\01. Trapeziod Area.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\bin\Debug\net6.0\01. Trapeziod Area.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\refint\01. Trapeziod Area.dll
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.pdb
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\01. Trapeziod Area.genruntimeconfig.cache
+D:\SoftUni - Programing Basic C#\Първи стъпки в програмирането\Примерни задачи - допълнително\01. Trapeziod Area\01. Trapeziod Area\obj\Debug\net6.0\ref\01. Trapeziod Area.dll

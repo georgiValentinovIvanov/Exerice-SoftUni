@@ -1,0 +1,16 @@
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\bin\Debug\net5.0\03. Animal Type.exe
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\bin\Debug\net5.0\03. Animal Type.deps.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\bin\Debug\net5.0\03. Animal Type.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\bin\Debug\net5.0\03. Animal Type.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\bin\Debug\net5.0\03. Animal Type.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\bin\Debug\net5.0\03. Animal Type.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\refint\03. Animal Type.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\03. Animal Type.genruntimeconfig.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\03. Animal Type\03. Animal Type\obj\Debug\net5.0\ref\03. Animal Type.dll

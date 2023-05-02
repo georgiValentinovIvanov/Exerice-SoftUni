@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\refint\02. Multiplication Table.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\02. Multiplication Table\02. Multiplication Table\obj\Debug\net5.0\ref\02. Multiplication Table.dll

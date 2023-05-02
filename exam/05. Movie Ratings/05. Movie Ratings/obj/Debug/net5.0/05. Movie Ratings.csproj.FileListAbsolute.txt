@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\bin\Debug\net5.0\05. Movie Ratings.exe
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\bin\Debug\net5.0\05. Movie Ratings.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\bin\Debug\net5.0\05. Movie Ratings.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\bin\Debug\net5.0\05. Movie Ratings.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\bin\Debug\net5.0\05. Movie Ratings.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\bin\Debug\net5.0\05. Movie Ratings.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\refint\05. Movie Ratings.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\05. Movie Ratings.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\05. Movie Ratings\05. Movie Ratings\obj\Debug\net5.0\ref\05. Movie Ratings.dll

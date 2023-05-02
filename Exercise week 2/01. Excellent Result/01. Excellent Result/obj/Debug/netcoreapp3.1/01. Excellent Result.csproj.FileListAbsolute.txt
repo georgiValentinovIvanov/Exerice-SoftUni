@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\01. Excellent Result\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.genruntimeconfig.cache

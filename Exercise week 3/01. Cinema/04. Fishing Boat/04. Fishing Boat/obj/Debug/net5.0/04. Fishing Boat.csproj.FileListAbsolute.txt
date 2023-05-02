@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.exe
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\refint\04. Fishing Boat.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\04. Fishing Boat\04. Fishing Boat\obj\Debug\net5.0\ref\04. Fishing Boat.dll

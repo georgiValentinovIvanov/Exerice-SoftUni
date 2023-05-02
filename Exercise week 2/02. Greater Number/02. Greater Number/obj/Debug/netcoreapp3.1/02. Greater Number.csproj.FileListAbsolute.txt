@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\02. Greater Number\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.genruntimeconfig.cache

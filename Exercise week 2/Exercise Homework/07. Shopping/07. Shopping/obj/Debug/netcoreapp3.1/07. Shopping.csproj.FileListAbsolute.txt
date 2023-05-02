@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Упражнения\07. Shopping\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.genruntimeconfig.cache

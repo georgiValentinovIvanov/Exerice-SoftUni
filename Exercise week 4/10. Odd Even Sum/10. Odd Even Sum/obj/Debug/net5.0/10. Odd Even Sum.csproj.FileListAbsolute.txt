@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\refint\10. Odd Even Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\10. Odd Even Sum\10. Odd Even Sum\obj\Debug\net5.0\ref\10. Odd Even Sum.dll

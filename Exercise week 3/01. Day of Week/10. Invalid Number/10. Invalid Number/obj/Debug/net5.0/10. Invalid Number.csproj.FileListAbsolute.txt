@@ -1,0 +1,16 @@
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.exe
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.deps.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\refint\10. Invalid Number.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.genruntimeconfig.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\10. Invalid Number\10. Invalid Number\obj\Debug\net5.0\ref\10. Invalid Number.dll

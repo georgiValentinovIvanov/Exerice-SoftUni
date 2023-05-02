@@ -1,0 +1,14 @@
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.exe
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.deps.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.dll
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.pdb
+D:\SoftUni - Programing Basic C#\2 Седмица - Проверки\Домашно - Лекция\03. Even or Odd\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.genruntimeconfig.cache

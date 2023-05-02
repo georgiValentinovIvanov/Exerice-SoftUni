@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\bin\Debug\net5.0\06. Vet Parking.exe
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\bin\Debug\net5.0\06. Vet Parking.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\bin\Debug\net5.0\06. Vet Parking.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\bin\Debug\net5.0\06. Vet Parking.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\bin\Debug\net5.0\06. Vet Parking.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\bin\Debug\net5.0\06. Vet Parking.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\refint\06. Vet Parking.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\06. Vet Parking.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\06. Vet Parking\06. Vet Parking\obj\Debug\net5.0\ref\06. Vet Parking.dll

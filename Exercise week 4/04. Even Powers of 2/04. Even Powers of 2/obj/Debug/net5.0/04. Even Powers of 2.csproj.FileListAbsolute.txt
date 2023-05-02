@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\refint\04. Even Powers of 2.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\04. Even Powers of 2\04. Even Powers of 2\obj\Debug\net5.0\ref\04. Even Powers of 2.dll

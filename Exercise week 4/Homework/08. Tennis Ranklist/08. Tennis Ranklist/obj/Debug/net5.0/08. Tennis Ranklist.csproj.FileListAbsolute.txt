@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\refint\08. Tennis Ranklist.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\08. Tennis Ranklist\08. Tennis Ranklist\obj\Debug\net5.0\ref\08. Tennis Ranklist.dll

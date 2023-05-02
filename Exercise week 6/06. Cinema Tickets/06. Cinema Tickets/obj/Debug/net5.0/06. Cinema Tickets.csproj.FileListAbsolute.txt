@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\bin\Debug\net5.0\06. Cinema Tickets.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\refint\06. Cinema Tickets.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\06. Cinema Tickets.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\06. Cinema Tickets\06. Cinema Tickets\obj\Debug\net5.0\ref\06. Cinema Tickets.dll

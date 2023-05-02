@@ -1,0 +1,16 @@
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.exe
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.deps.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\bin\Debug\net5.0\04. Personal Titles.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\refint\04. Personal Titles.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\04. Personal Titles.genruntimeconfig.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\04. Personal Titles\04. Personal Titles\obj\Debug\net5.0\ref\04. Personal Titles.dll

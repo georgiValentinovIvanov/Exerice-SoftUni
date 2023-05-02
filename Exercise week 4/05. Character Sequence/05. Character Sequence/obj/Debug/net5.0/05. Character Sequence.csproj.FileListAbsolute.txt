@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\refint\05. Character Sequence.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\05. Character Sequence\05. Character Sequence\obj\Debug\net5.0\ref\05. Character Sequence.dll

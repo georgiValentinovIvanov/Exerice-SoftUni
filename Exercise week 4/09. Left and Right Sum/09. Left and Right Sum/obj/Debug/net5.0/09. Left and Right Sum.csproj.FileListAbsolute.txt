@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\refint\09. Left and Right Sum.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\09. Left and Right Sum\09. Left and Right Sum\obj\Debug\net5.0\ref\09. Left and Right Sum.dll

@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\refint\03. Sum Prime Non Prime.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\03. Sum Prime Non Prime\03. Sum Prime Non Prime\obj\Debug\net5.0\ref\03. Sum Prime Non Prime.dll

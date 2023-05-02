@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\bin\Debug\net5.0\04. Tourist Shop.exe
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\bin\Debug\net5.0\04. Tourist Shop.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\bin\Debug\net5.0\04. Tourist Shop.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\bin\Debug\net5.0\04. Tourist Shop.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\bin\Debug\net5.0\04. Tourist Shop.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\bin\Debug\net5.0\04. Tourist Shop.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\refint\04. Tourist Shop.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\04. Tourist Shop.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\04. Tourist Shop\04. Tourist Shop\obj\Debug\net5.0\ref\04. Tourist Shop.dll

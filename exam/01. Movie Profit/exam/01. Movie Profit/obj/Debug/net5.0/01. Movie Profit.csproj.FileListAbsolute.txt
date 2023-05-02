@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\bin\Debug\net5.0\01. Movie Profit.exe
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\bin\Debug\net5.0\01. Movie Profit.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\bin\Debug\net5.0\01. Movie Profit.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\bin\Debug\net5.0\01. Movie Profit.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\bin\Debug\net5.0\01. Movie Profit.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\bin\Debug\net5.0\01. Movie Profit.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\refint\01. Movie Profit.dll
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.pdb
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\01. Movie Profit.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\Подготовка за изпит\01. Movie Profit\exam\01. Movie Profit\obj\Debug\net5.0\ref\01. Movie Profit.dll

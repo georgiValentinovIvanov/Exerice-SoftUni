@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\bin\Debug\net5.0\07. Sum Numbers.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\refint\07. Sum Numbers.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\07. Sum Numbers.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\07. Sum Numbers\07. Sum Numbers\obj\Debug\net5.0\ref\07. Sum Numbers.dll

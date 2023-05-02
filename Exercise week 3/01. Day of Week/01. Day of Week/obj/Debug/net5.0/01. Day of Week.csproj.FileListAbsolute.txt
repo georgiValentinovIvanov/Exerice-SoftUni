@@ -1,0 +1,16 @@
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.AssemblyReference.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\refint\01. Day of Week.dll
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache
+D:\SoftUni - Programing Basic C#\3 Седмица - По сложни проверки\Домашно - Лекции\01. Day of Week\01. Day of Week\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll

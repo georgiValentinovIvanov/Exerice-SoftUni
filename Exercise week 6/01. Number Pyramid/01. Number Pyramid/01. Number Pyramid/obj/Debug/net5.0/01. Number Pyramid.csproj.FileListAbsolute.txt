@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\refint\01. Number Pyramid.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\Exercise\01. Number Pyramid\01. Number Pyramid\01. Number Pyramid\obj\Debug\net5.0\ref\01. Number Pyramid.dll

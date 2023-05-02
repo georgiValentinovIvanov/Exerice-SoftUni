@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\bin\Debug\net5.0\05. Travelling.exe
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\bin\Debug\net5.0\05. Travelling.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\bin\Debug\net5.0\05. Travelling.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\bin\Debug\net5.0\05. Travelling.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\bin\Debug\net5.0\05. Travelling.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\bin\Debug\net5.0\05. Travelling.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\refint\05. Travelling.dll
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.pdb
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\05. Travelling.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\6 Седмица - Вложени цикли\LAB\05. Travelling\05. Travelling\obj\Debug\net5.0\ref\05. Travelling.dll

@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\refint\07. Trekking Mania.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\Упражнения - Домашно\07. Trekking Mania\07. Trekking Mania\obj\Debug\net5.0\ref\07. Trekking Mania.dll

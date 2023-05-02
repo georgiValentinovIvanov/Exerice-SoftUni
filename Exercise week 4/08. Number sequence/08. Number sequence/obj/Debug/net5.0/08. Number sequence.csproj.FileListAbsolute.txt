@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\bin\Debug\net5.0\08. Number sequence.exe
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\bin\Debug\net5.0\08. Number sequence.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\bin\Debug\net5.0\08. Number sequence.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\bin\Debug\net5.0\08. Number sequence.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\bin\Debug\net5.0\08. Number sequence.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\bin\Debug\net5.0\08. Number sequence.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\refint\08. Number sequence.dll
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.pdb
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\08. Number sequence.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\4 Седмица - For-цикъл\08. Number sequence\08. Number sequence\obj\Debug\net5.0\ref\08. Number sequence.dll

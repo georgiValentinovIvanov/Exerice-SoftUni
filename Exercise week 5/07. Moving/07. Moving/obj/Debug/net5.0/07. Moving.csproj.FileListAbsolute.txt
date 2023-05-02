@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\bin\Debug\net5.0\07. Moving.exe
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\bin\Debug\net5.0\07. Moving.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\bin\Debug\net5.0\07. Moving.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\bin\Debug\net5.0\07. Moving.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\bin\Debug\net5.0\07. Moving.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\bin\Debug\net5.0\07. Moving.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\refint\07. Moving.dll
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.pdb
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\07. Moving.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\5 Седмица - While цикъл\Exercise\07. Moving\07. Moving\obj\Debug\net5.0\ref\07. Moving.dll

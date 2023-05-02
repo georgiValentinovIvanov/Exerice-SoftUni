@@ -1,0 +1,16 @@
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.exe
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.deps.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.runtimeconfig.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.runtimeconfig.dev.json
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.csproj.AssemblyReference.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.AssemblyInfoInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.AssemblyInfo.cs
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.csproj.CoreCompileInputs.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\refint\09. Ski Trip.dll
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.pdb
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.genruntimeconfig.cache
+D:\Курс по Програмиране - SOFTUNI C#\3 Седмица - По сложни проверки\Домашно - Упражнения\01. Cinema\01. Cinema\09. Ski Trip\09. Ski Trip\obj\Debug\net5.0\ref\09. Ski Trip.dll
