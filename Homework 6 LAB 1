@@ -1,0 +1,26 @@
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int naylon = int.Parse(Console.ReadLine());
+            int paint = int.Parse(Console.ReadLine());
+            int liters = int.Parse(Console.ReadLine());
+            int hours = int.Parse(Console.ReadLine());
+
+            double sumNaylon = (naylon + 2) * 1.50;
+            double sumPaint = (paint + paint*0.1) * 14.50;
+            double sumLiters = liters * 5.00;
+            double bags = 0.40;
+
+            double totalSum = sumNaylon + sumPaint + sumLiters + bags;
+            double priceMasters = (totalSum * 0.3) * 8;
+            double finalSum = totalSum + priceMasters;
+
+            Console.WriteLine(finalSum);
+        }
+    }
+}
