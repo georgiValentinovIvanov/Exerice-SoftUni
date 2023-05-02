@@ -1,0 +1,18 @@
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double dogFoods = Double.Parse(Console.ReadLine());
+            double catFoods = Double.Parse(Console.ReadLine());
+            double sum1 = dogFoods * 2.50;
+            double sum2 = catFoods * 4;
+            double Total = sum1 + sum2;
+
+            Console.WriteLine($"{Total} lv.");
+        }
+    }
+}
